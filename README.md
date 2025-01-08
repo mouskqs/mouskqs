@@ -35,6 +35,7 @@ The following **required** functionality is completed:
 
 ## Notes
 Describe any challenges encountered while building the app.
+- I struggled primarily with Step 3 of the prework and getting the button to work as intended after my initial attempt. I also had some trouble navigating XCode itself, especially when it came to finding the StoryBoard file and IBAction.
 
 ## License
 
